@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="150px">
 
 
 Hi there, I’m **Esteban Ladino** a **Frontend Developer**, I specialize in **React apps**, CSS and HTML. In addition, I work with CSS preprocessors like SASS.  I am interested in building innovative interfaces which proved the best user experience possible. My professional life has been 100% driven by my passion for video-games and system engineering.
